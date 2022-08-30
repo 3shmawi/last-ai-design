@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rating_stars/flutter_rating_stars.dart';
 
-// Ramses Hilton
-// 1115 Nile Corniche, 12344 , Cairo
-// Set your vacation to the tune of summery delight at Ramses Hilton. Rooted at the core of Egyptian’s metropolis, Cairo, on the east riverbank of the Nile, this majestic hotel is the perfect palatial re...
 class RestaurantsDetails extends StatefulWidget {
   const RestaurantsDetails({
     Key? key,
