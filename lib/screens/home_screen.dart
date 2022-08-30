@@ -65,7 +65,7 @@ class HomeScreenState extends State<HomeScreen>
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Text(
-                      'APP\'S NAME',
+                      'Bastnhalak',
                       style: TextStyle(
                         fontSize: 27,
                         color: Colors.black.withOpacity(.6),
@@ -74,7 +74,7 @@ class HomeScreenState extends State<HomeScreen>
                     ),
                     SizedBox(height: w / 35),
                     Text(
-                      'Sara & Aliaa you can write something\nabout this app here',
+                      'you can write something\nabout this app here',
                       style: TextStyle(
                         fontSize: 19,
                         color: Colors.black.withOpacity(.5),

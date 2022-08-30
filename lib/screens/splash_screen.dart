@@ -112,7 +112,7 @@ class SplashScreenState extends State<SplashScreen> {
                         totalRepeatCount: 1,
                         animatedTexts: [
                           FadeAnimatedText(
-                            'APP NAME',
+                            'Bastnhalak',
                             duration: const Duration(milliseconds: 1700),
                             textStyle: const TextStyle(
                               fontSize: 30,
